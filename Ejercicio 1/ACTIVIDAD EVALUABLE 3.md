@@ -92,3 +92,6 @@ En la siguiente imagen se puede observar como se eliminan los contenedores utili
 
 ![image-20220408211332911](ACTIVIDAD%20EVALUABLE%203.assets/image-20220408211332911.png)
 
+
+
+.
